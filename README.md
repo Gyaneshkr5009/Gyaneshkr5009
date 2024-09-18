@@ -33,6 +33,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=data)
 ![Unix Command Line](https://img.shields.io/badge/-Unix%20Commands-333333?style=flat&logo=unix)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=333)
+![Web 3](https://img.shields.io/badge/-Web%203-F16822?style=flat&logo=web3.js&logoColor=fff)
 
 
 ---
