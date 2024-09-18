@@ -15,6 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Version Control](https://img.shields.io/badge/-Version%20Control-333333?style=flat&logo=git)
@@ -29,10 +31,9 @@
 ![DSA](https://img.shields.io/badge/-DSA-333333?style=flat&logo=algorithm)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=333)
-![Web 3](https://img.shields.io/badge/-Web%203-F16822?style=flat&logo=web3.js&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=data)
 ![Unix Command Line](https://img.shields.io/badge/-Unix%20Commands-333333?style=flat&logo=unix)
+
 
 ---
 
