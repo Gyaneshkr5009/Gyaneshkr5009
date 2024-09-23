@@ -36,6 +36,8 @@
 ![Unix Command Line](https://img.shields.io/badge/-Unix%20Commands-333333?style=flat&logo=unix)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=333)
 ![Web 3](https://img.shields.io/badge/-Web%203-F16822?style=flat&logo=web3.js&logoColor=fff)
+[![JSON](https://img.shields.io/badge/JSON-Data-blue?logo=json&logoColor=white)](https://github.com/your-username/your-repo/blob/main/your-file.json)
+
 
 
 ---
