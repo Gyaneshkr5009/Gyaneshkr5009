@@ -51,7 +51,7 @@
 ---
 
 ### 📈 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gyaneshkr5009&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gyaneshkr5009&theme=dark)](https://git.io/streak-stats)
 
 ---
 
