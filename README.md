@@ -6,7 +6,7 @@
 - 💡 Eager to learn and contribute to **open-source projects** while continuously improving my skills.
 - 🚀 Actively solving coding challenges on multiple platforms to sharpen my DSA and competitive programming skills.
 
----
+----
 
 ### 🔧 Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
