@@ -43,8 +43,8 @@
 ---
 
 ### 🏆 Competitive Programming:
-- 🔹 Solved **350+ problems** on Code360
-- 🔹 Solved **355+ problems** on LeetCode
+- 🔹 Solved **500+ problems** on LeetCode
+- 🔹 Solved **450+ problems** on Code360
 - 🔹 Solved **100+ problems** on GFG
 - 💡 Constantly improving my data structures and algorithms skills through regular practice
 
