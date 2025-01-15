@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Gyanesh Kumar</h1>
-<h3 align="center">🎓 I'm a B.Tech Computer Science Engineering (CSE) student passionate about software development and web technologies.🌱 Currently exploring backend development and enhancing my problem-solving skills.💡 Eager to learn and contribute to open-source projects while continuously improving my skills. 🚀 Actively solving coding challenges on multiple platforms to sharpen my DSA and competitive programming skills.</h3>
+# Hi, I'm Gyanesh Kumar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyaneshkr5009&label=Profile%20views&color=0e75b6&style=flat" alt="gyaneshkr5009" /> </p>
+### 👨‍💻 About Me:
+- 🎓 I'm a **B.Tech Computer Science Engineering (CSE)** student passionate about software development and web technologies.
+- 🌱 Currently exploring **backend development** and enhancing my problem-solving skills.
+- 💡 Eager to learn and contribute to **open-source projects** while continuously improving my skills.
+- 🚀 Actively solving coding challenges on multiple platforms to sharpen my DSA and competitive programming skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gyanesh-kumar-a73114213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gyanesh-kumar-a73114213/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gyaneshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gyaneshkr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gyaneshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gyaneshkr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gyanesn0kq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gyanesn0kq" height="30" width="40" /></a>
-</p>
+----
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🔧 Tech Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=fff)
+[![EJS](https://img.shields.io/badge/-EJS-FFA500?style=flat&logo=EJS&logoColor=white)](https://ejs.co/)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Version Control](https://img.shields.io/badge/-Version%20Control-333333?style=flat&logo=git)
+![Web Design](https://img.shields.io/badge/-Web%20Design-333333?style=flat&logo=design)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![DOM](https://img.shields.io/badge/-DOM-333333?style=flat&logo=web&logoColor=fff)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)
+![MS Excel](https://img.shields.io/badge/-MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=fff)
+![DSA](https://img.shields.io/badge/-DSA-333333?style=flat&logo=algorithm)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=data)
+![Unix Command Line](https://img.shields.io/badge/-Unix%20Commands-333333?style=flat&logo=unix)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=333)
+![Web 3](https://img.shields.io/badge/-Web%203-F16822?style=flat&logo=web3.js&logoColor=fff)
+[![JSON](https://img.shields.io/badge/JSON-Data-blue?logo=json&logoColor=white)](https://github.com/your-username/your-repo/blob/main/your-file.json)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyaneshkr5009&show_icons=true&locale=en&layout=compact" alt="gyaneshkr5009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyaneshkr5009&show_icons=true&locale=en" alt="gyaneshkr5009" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyaneshkr5009&" alt="gyaneshkr5009" /></p>
+---
 
+### 🏆 Competitive Programming:
+- 🔹 Solved **500+ problems** on LeetCode
+- 🔹 Solved **450+ problems** on Code360
+- 🔹 Solved **100+ problems** on GFG
+- 💡 Constantly improving my data structures and algorithms skills through regular practice
+
+---
+
+### 📈 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gyaneshkr5009)](https://git.io/streak-stats)
+
+---
+
+### 🌍 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gyanesh-kumar-a73114213/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=fff)](https://www.instagram.com/gyanesh100/)
+
+---
+
+### 💡 Fun Fact:
+When I'm not coding, you can find me exploring the latest tech trends or brainstorming solutions to new problems!
