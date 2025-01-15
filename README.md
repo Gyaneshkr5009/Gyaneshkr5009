@@ -12,7 +12,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gyanesh-kumar-a73114213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gyanesh-kumar-a73114213/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gyanesh-kumar-a73114213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gyanesh-kumar-a73114213/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gyaneshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gyaneshkr" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/gyaneshkr2002" target="blank"><img align="center" src="https://github.com/Gyaneshkr5009/read_me/blob/main/naukri%20svg%20logo_logoshape.com.svg" alt="gyaneshkr2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gyanesn0kq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gyanesn0kq" height="30" width="40" /></a>
