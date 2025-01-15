@@ -1,4 +1,4 @@
-![logo](https://github.com/Gyaneshkr5009/read_me/blob/main/DALL%C2%B7E%202025-01-15%2020.32.34%20-%20A%20professional%20GitHub%20banner%20featuring%20a%20textured%20stone%20wall%20background%20inspired%20by%20the%20user's%20uploaded%20image%2C%20blended%20with%20sleek%20modern%20elements.%20The.jpg)
+![image](https://github.com/user-attachments/assets/510bd08d-67db-4a4c-8841-d429628965d3)
 <h1 align="center">Hi 👋, I'm Gyanesh Kumar</h1>
 <h4>👨‍💻 About Me:</h4>
 <h4 align="center">🎓 I'm a B.Tech Computer Science Engineering (CSE) student passionate about software development and web technologies.</h4>
