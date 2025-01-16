@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/510bd08d-67db-4a4c-8841-d429628965d3)
+<img  alt="coding" width ="1015" height ="300" src="https://github.com/Gyaneshkr5009/read_me/blob/main/Coding%20GIF%20-%20Coding%20-%20Discover%20%26%20Share%20GIFs.gif"/>
 <h1 align="center">Hi 👋, I'm Gyanesh Kumar</h1>
 <h4>👨‍💻 About Me:</h4>
 <h4 align="center">🎓 I'm a B.Tech Computer Science Engineering (CSE) student passionate about software development and web technologies.</h4>
