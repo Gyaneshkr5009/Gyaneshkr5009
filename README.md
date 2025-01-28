@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left">🌐 Connect With Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gyanesh-kumar-a73114213/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/gyaneshkr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
@@ -90,7 +90,7 @@
 
 ---
 
-<h3 align="left">Skills and Expertise:</h3>
+<h3 align="left">💡 Skills and Expertise:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-DSA-333333?style=flat&logo=algorithm" alt="DSA" />
   <a href="https://github.com/your-username/your-repo/blob/main/your-file.json" target="_blank">
