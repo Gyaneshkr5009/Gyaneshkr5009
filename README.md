@@ -115,11 +115,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyaneshkr5009&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyaneshkr5009&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gyaneshkr5009&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gyaneshkr5009&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyaneshkr5009&theme=highcontrast" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gyaneshkr5009&theme=highcontrast" alt="GitHub Streak" /></p>
 
 ---
 
