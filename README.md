@@ -129,4 +129,7 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gyaneshkr5009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="center">✨ <em>"Strive for progress, not perfection."</em> ✨</p>
